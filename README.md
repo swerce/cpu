@@ -10,7 +10,7 @@ In this representation:
     Inv is the inverter.
     Different paths represent different logic conditions and their corresponding output paths (IF Output, ELSE Output, and Result).
 
-   Vcc
+```Vcc
     |
     |
    Rpu
@@ -64,7 +64,7 @@ In this representation:
     |
    Inv
     |
-   GND
+   GND```
 
 
 In the provided visual representation, we have a circuit that performs a conditional check based on the inputs A and B and produces different outputs (IF Output, ELSE Output, and Result) accordingly.
