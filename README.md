@@ -1,0 +1,2 @@
+# cpu
+about cpu's
